@@ -1,0 +1,18 @@
+total 76
+drwxr-xr-x 5 vmyshko student  4096 mrt 15 16:17 .
+drwxr-xr-x 9 vmyshko student   165 mrt 15 15:57 ..
+-rw-r--r-- 1 vmyshko student  1387 mrt 13 17:25 free_utils.c
+-rw-r--r-- 1 vmyshko student  1712 mrt 15 16:15 free_utils.o
+drwxr-xr-x 4 vmyshko student    47 mrt 15 16:11 git_submit_evaluation
+-rwxrwxrwx 1 vmyshko student    36 mrt 15 15:24 infile (copy).txt
+drwxr-xr-x 5 vmyshko student  4096 mrt 15 16:15 LIBFT
+-rw-r--r-- 1 vmyshko student   478 mrt 11 12:26 Makefile
+-rwxrwxrwx 1 vmyshko student   884 mrt 15 16:12 outfile (copy).txt
+-rw-r--r-- 1 vmyshko student     0 mrt 15 16:18 outfile.txt
+-rw-r--r-- 1 vmyshko student  3190 mrt 15 16:13 path_and_mistake.c
+-rw-r--r-- 1 vmyshko student  4800 mrt 15 16:15 path_and_mistake.o
+-rwxr-xr-x 1 vmyshko student 21816 mrt 15 16:15 pipex
+-rw-r--r-- 1 vmyshko student  1956 mrt 15 12:17 pipex.h
+-rw-r--r-- 1 vmyshko student  3417 mrt 15 12:18 pipex_main.c
+-rw-r--r-- 1 vmyshko student  3880 mrt 15 16:15 pipex_main.o
+drwxr-xr-x 2 vmyshko student    75 mrt 15 16:15 .vscode
